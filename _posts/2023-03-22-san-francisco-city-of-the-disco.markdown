@@ -5,12 +5,12 @@ date:   2023-03-22 10:22:44 +0100
 categories: jekyll update
 ---
 
-# The picture of a most likely crime in San Francisco
+# The picture of the most likely crime in San Francisco
 San Francisco is a commercial, financial, and cultural center of Northern California. The city proper is the fourth most populous in California, with 815,201 residents as of 2021, and covers a land area of 121 square kilometers, making it the second most densely populated large U.S. city after New York City.
 
 In terms of safety, according to [Numbeo](https://www.numbeo.com/crime/in/San-Francisco) the Crime Index is 61.14/120 which rates the Level of crime as <span style="color:#9B1E1B">High</span>. <i>(as per 22 mar 2023)</i>
 
-In this post we are going to dive into the nature of those crimes, the time and the place where those crimes were committed in order to get a picture of a most likely crime in San Francisco.
+In this post we are going to dive into the nature of those crimes, the time and the place where those crimes were committed in order to get the picture of a most likely crime in San Francisco.
 
 I am going to use the public statystics data from [https://datasf.org/opendata/](https://datasf.org/opendata/). The data below represents police incidence reports from 2003 to may 2018
 
