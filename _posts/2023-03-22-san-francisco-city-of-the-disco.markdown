@@ -14,7 +14,7 @@ In this post we are going to dive into the nature of those crimes, the time and 
 
 I am going to use the public statystics data from [https://datasf.org/opendata/](https://datasf.org/opendata/). The data below represents police incidence reports from 2003 to may 2018
 
-First, by studying the amount of each type of crime, we can conclude that approximately half of the crimes are related to theft, which makes it the most often committed crime in San Francisco.
+First, by studying the amount of each type of crime, we can conclude that approximately half of the crimes are related to <b>theft</b>, which makes it the most often committed crime in San Francisco.
 
 
 <embed
@@ -24,7 +24,11 @@ First, by studying the amount of each type of crime, we can conclude that approx
        height="550"
        >
 
-Next, let's analyze the time and the day of the week of the Larceny/theft crimes, from the graph below it's clear that most often these crimes are made on fridays, around 19 o'clock
+Next, let's analyze the time and the day of the week of the Larceny/theft crimes.
+
+The next graph represents the number of thefts reported to the police per hour of the day and each line represents a different day of the week. Select each line and compare the frequency. 
+
+From the graph it's clear that most often these crimes are commited on <b>Fridays, around 19 o'clock</b>.
 
 <embed
        type="text/html"
@@ -33,7 +37,9 @@ Next, let's analyze the time and the day of the week of the Larceny/theft crimes
        height="650"
        >
 
-Lastly, we have to look for the district from San Francisco where the most thefts are made. Lucky we can analyze the data from datasf and create a map of San Francisco's districts and color each district according to the amount of thefts made.
+Lastly, we have to look for the district from San Francisco where the most thefts are made. Using the data from the datasf site I created a map of San Francisco's districts and color each district according to the amount of thefts made.
+
+From the map one can spot that <b>the district of the Southern police departament</b> has the highest number of thefts reported.
 
 <embed
        type="text/html"
@@ -42,6 +48,6 @@ Lastly, we have to look for the district from San Francisco where the most theft
        height="600"
        >
 
-In conclusion, the most common crime in San Francisco is a guy stealing a mobile phone on a friday evening in the Southern district, I hope you liked this little experiment :)
+In conclusion, the most common crime in San Francisco is a guy stealing a mobile phone on a friday evening in the Southern district. I hope you liked this little experiment :)
 
 ![demo image](/img/image2.jpg)
